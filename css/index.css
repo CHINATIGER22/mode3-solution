@@ -1,18 +1,14 @@
-* {
-    box-sizing: border-box;
-}
-
 header {
     background-color: gray;
     padding: 0.5rem;
+    border: solid;
+    
 }
 
-.col-sm-12 {
+.container {
     background-color: gray;
     padding: 0rem;
     margin: 3em;
+    
 }
 
-#big {
-    margin-top: 1rem;
-}
