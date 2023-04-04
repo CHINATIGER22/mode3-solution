@@ -4,6 +4,9 @@ header {
     border: solid;
     
 }
+h1 {
+    color: black;
+}
 
 #hearder-nav {
     background-color:  grey;
@@ -14,6 +17,7 @@ header {
     color: black;
     display: block;
 }
+
 
 .container {
     background-color: grey;
